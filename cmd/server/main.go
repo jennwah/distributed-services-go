@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"distributed-services-go/internal/server"
+	"github.com/jennwah/distributed-services-go/internal/server"
 )
 
 func main() {
